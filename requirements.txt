@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-RESTX
+Flask-Talisman
+Flask-Cors
+psycopg2-binary
+nose
+pinocchio
+coverage
+flake8
+pylint
+gunicorn
